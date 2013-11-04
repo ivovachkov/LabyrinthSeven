@@ -1,2 +1,2 @@
-LabyrinthSeven
-==============
+LabyrinthSeven - Console Based Labyrinth Application
+====================================================
